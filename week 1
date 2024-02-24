@@ -1,0 +1,43 @@
+Section A: Definitions
+
+1.    Define the following key terms related to databases:
+
+  Database -  An organized collection of structured information or data stored electronically in a computer.
+
+ Table - is a set of datavalues organized in rows and columns.
+
+ Record - it is a collection of data organized within a table that relates to a specific topic. 
+
+ Field - a piece of information stored within a record.
+
+ Primary Key - is a unique identifier for each record in a database table.
+
+ SQL - is a language used to manage data, especially in relational databases.
+
+ Query - It is a request for data from a database or tables within a database.
+
+ Index - is a data structures that improves the speed of adat retrieval operations on a database table.
+
+ Normalization - reorganizing of adat in a database so that it meets two basic requirements; that is all data is stored in one lace and there is no data redundancy.
+
+ Database Management System (DBMS) - a system that provides various functions that allow entry storage and retrieval of large quantities of infomation and a way to manage it.
+
+
+
+2.  Section B: Discussions
+
+
+2.1.1.    Describe the purpose of a primary key in a database table and provide an example.
+
+A primary key is used to uniquely identify a record in a database - meaning each rwo should be different to the next . an example would be a National ID card, where each number is different from another persons number.
+
+
+
+2.1.2.    Explain the difference between a database management system (DBMS) and a database.
+
+A database is An organized collection of structured information/ data stored electronically in a computer while a database management system (DBMS) is a a system that provide functionalities on how the said data will be stored, processed and managed.
+
+
+2.1.3.    Discuss in short, the importance of normalization in database design and provide an example of how it can improve data integrity.
+
+-- it helps eliminate the flaws of poorly designed database that might create issues when carrying out the CRUD operations. It improves data integrity in the sense that, only the required data is stored, and it is stored where it suppossed to. Hence, eliminating probaly errors that would occur if the normal slq operations are done.
